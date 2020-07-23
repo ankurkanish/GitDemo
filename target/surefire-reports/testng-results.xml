@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-24T19:39:12 IST" name="Command line suite" finished-at="2020-05-24T19:39:12 IST" duration-ms="87">
+    <groups>
+    </groups>
+    <test started-at="2020-05-24T19:39:12 IST" name="Command line test" finished-at="2020-05-24T19:39:12 IST" duration-ms="87">
+      <class name="testPro.mavenPract.MavenProTest">
+        <test-method signature="Check2Test()[pri:0, instance:testPro.mavenPract.MavenProTest@543c6f6d]" started-at="2020-05-24T19:39:12 IST" name="Check2Test" finished-at="2020-05-24T19:39:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Check2Test -->
+        <test-method signature="Check3Test()[pri:0, instance:testPro.mavenPract.MavenProTest@543c6f6d]" started-at="2020-05-24T19:39:12 IST" name="Check3Test" finished-at="2020-05-24T19:39:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Check3Test -->
+      </class> <!-- testPro.mavenPract.MavenProTest -->
+      <class name="testPro.mavenPract.MavenPro1Test">
+        <test-method signature="Check1Test()[pri:0, instance:testPro.mavenPract.MavenPro1Test@1d371b2d]" started-at="2020-05-24T19:39:12 IST" name="Check1Test" finished-at="2020-05-24T19:39:12 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Check1Test -->
+        <test-method signature="CheckTest()[pri:0, instance:testPro.mavenPract.MavenPro1Test@1d371b2d]" started-at="2020-05-24T19:39:12 IST" name="CheckTest" finished-at="2020-05-24T19:39:12 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTest -->
+      </class> <!-- testPro.mavenPract.MavenPro1Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
