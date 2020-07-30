@@ -15,6 +15,7 @@ public class MavenPro1Test {
 		System.out.println("TestM");
 		System.out.println("TestKimball");
 		System.out.println("TestKimballauto");
+		System.out.println("lenovo4");
 	}
 	
 	@Test
@@ -28,6 +29,7 @@ public class MavenPro1Test {
 		System.out.println("TestR");
 		System.out.println("TestKimball1");
 		System.out.println("TestKimballauto2");
+		System.out.println("lenovo5");
 	}
 	
 	}
