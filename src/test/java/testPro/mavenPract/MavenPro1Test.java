@@ -11,6 +11,8 @@ public class MavenPro1Test {
 		System.out.println("Test1");
 		System.out.println("TestA");
 		System.out.println("TestB");
+		System.out.println("TestN");
+		System.out.println("TestM");
 	}
 	
 	@Test
@@ -20,6 +22,8 @@ public class MavenPro1Test {
 		System.out.println("Test2");
 		System.out.println("TestC");
 		System.out.println("TestD");
+		System.out.println("TestQ");
+		System.out.println("TestR");
 	}
 	
 	}
