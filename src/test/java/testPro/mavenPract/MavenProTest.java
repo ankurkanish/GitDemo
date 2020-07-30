@@ -14,6 +14,8 @@ public class MavenProTest {
 		System.out.println("Testz");
 		System.out.println("Testy");
 		System.out.println("Testo");
+		System.out.println("TestAaron");
+		System.out.println("TestAaronauto");
 	}
 	
 	@Test
@@ -24,6 +26,8 @@ public class MavenProTest {
 		System.out.println("TestE");
 		System.out.println("Testk");
 		System.out.println("TestL");
+		System.out.println("TestAaron");
+		System.out.println("TestAaronauto1");
 	}
 
 }
