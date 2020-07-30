@@ -10,7 +10,7 @@ public class MavenProTest {
 	{
 	
 		System.out.println("Test3");
-	
+		System.out.println("TestF");
 	}
 	
 	@Test
@@ -18,6 +18,7 @@ public class MavenProTest {
 	{
 	
 		System.out.println("Test4");
+		System.out.println("TestE");
 	
 	}
 
